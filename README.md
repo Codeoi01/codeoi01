@@ -44,14 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeoi01&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Codeoi01/Codeoi01/blob/output/snake.svg" alt="snake gif" />
-</p>
-
----
 
 ## 📫 Contact
 <p align="center">
